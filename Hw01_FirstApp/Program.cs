@@ -12,7 +12,6 @@ namespace Hw01_FirstApp
             string surname = Console.ReadLine().Trim();
 
             Console.WriteLine($"Merhaba {name} {surname}");
-            
         }
     }
 }
