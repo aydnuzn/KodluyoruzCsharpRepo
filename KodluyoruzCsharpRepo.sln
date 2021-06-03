@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw05_ExceptionHandling", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw06_DecisionStructure_IfElse", "Hw06_DecisionStructure_IfElse\Hw06_DecisionStructure_IfElse.csproj", "{0B972C5F-D786-4053-9F1C-D7D480587169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw07_DecisionStructure_SwitchCase", "Hw07_DecisionStructure_SwitchCase\Hw07_DecisionStructure_SwitchCase.csproj", "{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0B972C5F-D786-4053-9F1C-D7D480587169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B972C5F-D786-4053-9F1C-D7D480587169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B972C5F-D786-4053-9F1C-D7D480587169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
