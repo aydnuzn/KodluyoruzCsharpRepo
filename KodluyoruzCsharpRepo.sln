@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw03_Operators", "Hw03_Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw04_TypeConversions", "Hw04_TypeConversions\Hw04_TypeConversions.csproj", "{084071BE-4D50-4748-9498-B27D5098075F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw05_ExceptionHandling", "Hw05_ExceptionHandling\Hw05_ExceptionHandling.csproj", "{C30ADC89-8645-488B-AB7E-650E567F13C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw06_DecisionStructure_IfElse", "Hw06_DecisionStructure_IfElse\Hw06_DecisionStructure_IfElse.csproj", "{0B972C5F-D786-4053-9F1C-D7D480587169}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{084071BE-4D50-4748-9498-B27D5098075F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{084071BE-4D50-4748-9498-B27D5098075F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{084071BE-4D50-4748-9498-B27D5098075F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30ADC89-8645-488B-AB7E-650E567F13C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30ADC89-8645-488B-AB7E-650E567F13C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30ADC89-8645-488B-AB7E-650E567F13C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30ADC89-8645-488B-AB7E-650E567F13C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B972C5F-D786-4053-9F1C-D7D480587169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B972C5F-D786-4053-9F1C-D7D480587169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B972C5F-D786-4053-9F1C-D7D480587169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B972C5F-D786-4053-9F1C-D7D480587169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
