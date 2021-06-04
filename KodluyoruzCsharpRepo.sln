@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw01_FirstApp", "Hw01_FirstApp\Hw01_FirstApp.csproj", "{17B394A5-235C-40EF-952A-DD3C55E8769D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw01_FirstApp", "Hw01_FirstApp\Hw01_FirstApp.csproj", "{17B394A5-235C-40EF-952A-DD3C55E8769D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw02_Variables", "Hw02_Variables\Hw02_Variables.csproj", "{5A1BD91F-CAB2-41D7-A5EA-D8D2582B78A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw02_Variables", "Hw02_Variables\Hw02_Variables.csproj", "{5A1BD91F-CAB2-41D7-A5EA-D8D2582B78A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw03_Operators", "Hw03_Operators\Hw03_Operators.csproj", "{C4B55E27-77C7-4CA2-ADAB-6443132525D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw03_Operators", "Hw03_Operators\Hw03_Operators.csproj", "{C4B55E27-77C7-4CA2-ADAB-6443132525D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw04_TypeConversions", "Hw04_TypeConversions\Hw04_TypeConversions.csproj", "{084071BE-4D50-4748-9498-B27D5098075F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw04_TypeConversions", "Hw04_TypeConversions\Hw04_TypeConversions.csproj", "{084071BE-4D50-4748-9498-B27D5098075F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw05_ExceptionHandling", "Hw05_ExceptionHandling\Hw05_ExceptionHandling.csproj", "{C30ADC89-8645-488B-AB7E-650E567F13C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw05_ExceptionHandling", "Hw05_ExceptionHandling\Hw05_ExceptionHandling.csproj", "{C30ADC89-8645-488B-AB7E-650E567F13C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw06_DecisionStructure_IfElse", "Hw06_DecisionStructure_IfElse\Hw06_DecisionStructure_IfElse.csproj", "{0B972C5F-D786-4053-9F1C-D7D480587169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw06_DecisionStructure_IfElse", "Hw06_DecisionStructure_IfElse\Hw06_DecisionStructure_IfElse.csproj", "{0B972C5F-D786-4053-9F1C-D7D480587169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw07_DecisionStructure_SwitchCase", "Hw07_DecisionStructure_SwitchCase\Hw07_DecisionStructure_SwitchCase.csproj", "{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hw07_DecisionStructure_SwitchCase", "Hw07_DecisionStructure_SwitchCase\Hw07_DecisionStructure_SwitchCase.csproj", "{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw08_DecisionStructure2", "Hw08_DecisionStructure2\Hw08_DecisionStructure2.csproj", "{F9D0A293-2B50-4357-A992-2D945E2BE952}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{725B7F22-1D8C-482B-A1B5-9AF8F1A659C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D0A293-2B50-4357-A992-2D945E2BE952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D0A293-2B50-4357-A992-2D945E2BE952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D0A293-2B50-4357-A992-2D945E2BE952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D0A293-2B50-4357-A992-2D945E2BE952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
