@@ -25,6 +25,7 @@ namespace Hw07_DecisionStructure_SwitchCase
                 case 10: Console.WriteLine("Ekim"); break;
                 case 11: Console.WriteLine("Kasim"); break;
                 case 12: Console.WriteLine("Aralik"); break;
+
                 
             }
         }
